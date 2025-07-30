@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+*.env
+*.venv
+.DS_Store
+*.log
+.ipynb_checkpoints/
+*.ipynb~  # temporary Jupyter notebook autosave files
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# OS & IDE files
+*.swp
+*.swo
+*.tmp
+*~
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm
+.idea/
+*.iml
+
+# VSCode (if ever used)
+.vscode/
+
+# Tableau
+# Keep .twb files, ignore extracts and logs
+*.hyper
+*.tde
+*.tdsx
+*.twbx
+My Tableau Repository/Logs/
